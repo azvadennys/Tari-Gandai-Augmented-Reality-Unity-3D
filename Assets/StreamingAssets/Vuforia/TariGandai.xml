@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TakTeroEdit" size="200.000000 300.000000" />
+    <ImageTarget name="Lori" size="200.000000 242.998581" />
+    <ImageTarget name="KuauLetok" size="200.000000 300.000000" />
+    <ImageTarget name="Gadisambay" size="100.000000 150.000000" />
+    <ImageTarget name="KasihSayang" size="680.000000 1020.000000" />
+  </Tracking>
+</QCARConfig>
